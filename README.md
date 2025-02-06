@@ -77,7 +77,7 @@ _Add plots showcasing feature importance, residuals, and model comparisons here.
 
 ## 📬 Contributors  
 
-- **[Your Name]** – Developer  
+- **[Nimendra Gunawardana]** – Developer  
 - **[Siyathma Wedamulla]** – Developer  
 
 ---
@@ -85,7 +85,7 @@ _Add plots showcasing feature importance, residuals, and model comparisons here.
 ## 🔗 References  
 
 - Research Paper/Article (if applicable)  
-- [Project LinkedIn Post](https://lnkd.in/gHrFu8Q2)  
+- [Project LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7275788310214520832/)  
 
 ---
 
